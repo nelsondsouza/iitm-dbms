@@ -6,7 +6,8 @@ Click on Test Run.
 If it has run correctly, it will give the message: "Correct select query" at the bottom.
 If not, it will give an error message or incorrect select query.
 Once you are satisfied that your query works correctly, then click on "Submit".
- Problem Statement: 
+
+**Problem Statement:**
 Q001flisdb: Write an SQL query to print the name, the jersey number and the name of the manager (of the team) of each player 
 whose jersey number is either 14 or 16. Note that the players could be of different teams. [Database: FLIS] flisdb: 
 
