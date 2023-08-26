@@ -1,4 +1,5 @@
-**Instructions: **
+**Instructions:**
+
 Note: Do not hard code the database name in your program, because your program will be run against a different database instance for evaluation.  
 
 For the database connection, use the following connection string variables:  
