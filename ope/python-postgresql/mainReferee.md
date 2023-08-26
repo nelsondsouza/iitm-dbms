@@ -9,7 +9,7 @@ The output name has to be formatted as follows. The last name is displayed follo
 
 ![](https://backend.seek.onlinedegree.iitm.ac.in/23t1_cs2001/assets/img/flis.png)  
 
-This assignment has public test cases. Please click on "Test Run" button to see the status of public test cases. Assignment will be evaluated only after submitting using "Submit" button below. If you only test run the program, your assignment will not be graded and you will not see your score after the deadline.
+
 ```python
 import sys
 import os
