@@ -53,4 +53,5 @@ student_lname
 FROM  students  s,  
 members  m  
 WHERE  s.roll_no  =  m.roll_no  
-AND  member_type  =  'PG';```
+AND  member_type  =  'PG';
+```
